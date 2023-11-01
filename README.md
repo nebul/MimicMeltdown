@@ -1,2 +1,2 @@
 # MimicMeltdown
-Simple interpreter
+Simple Compiler
